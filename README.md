@@ -187,3 +187,11 @@ Sine Wave:        y(t) = A·sin(2πft + φ)
 
 **Course Navigation:**  
 ← Previous: [Chapter 1 - Signals and Number Systems](../ch1_signal_and_num_sys/) | Next: [Chapter 3 - Digital Signals](../ch3_digital_signals/) →
+
+---
+
+## Authorship
+Authored by Maxwell Hauser on November 19, 2025
+
+## License
+MIT License
